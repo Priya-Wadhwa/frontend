@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://backend-sqyk.onrender.com"
+  "proxy": "/https://backend-sqyk.onrender.com"
 }
