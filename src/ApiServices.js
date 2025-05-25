@@ -1,6 +1,6 @@
 import axios from "axios"
 import * as qs from"qs"
-export const BASE_URL="/https://backend-sqyk.onrender.com"
+export const BASE_URL="https://backend-sqyk.onrender.com/"
 
 class ApiServices{
     getToken(){
